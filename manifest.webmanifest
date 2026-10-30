@@ -1,10 +1,10 @@
 {
-  "id": "./",
+  "id": "/Ps/",
   "name": "Power System",
   "short_name": "Power System",
   "description": "Personal daily routine, performance review and progress dashboard.",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/Ps/",
+  "scope": "/Ps/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#000000",
